@@ -7,7 +7,7 @@ import { Header } from './pages/layouts'
 import { Main } from './pages/main'
 import {Container} from './pages/style.js'
 function MyApp() {
-
+  console.log('window.mylocalEnv', window.mylocalEnv)
   return (
     <>
       <Header/>
