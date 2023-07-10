@@ -1,0 +1,45 @@
+{
+    "therapistName": "Marie Pasco",
+    "partnerOrganizationName": "Wingate University",
+    "partnerUserCertifications": "",
+    "partnerUserAddress": "",
+    "partnerUserCity": "Monroe",
+    "partnerUserState": "NC",
+    "partnerUserZip": "",
+    "partnerUserContactPhone": "",
+    "partnerLogo": "",
+    "partnerUserEmail": "ma.pasco088@wingate.edu",
+    "clientStreetName": "1825 Morehead Ridge dr.",
+    "clientReportCode": "94A61A6E-FA5A-4FDC-BFA6-20614DA9C892",
+    "clientHousingType": "apartment/condo",
+    "clientNumberFloors": "4",
+    "clientIsVeteran": "no",
+    "clientTenantType": "renter",
+    "clientStatus": "Initial Assessment Started",
+    "clientHasHoa": "no",
+    "clientGender": "",
+    "clientReferralReason": "",
+    "clientReferredBy": "",
+    "clientWeight": "145",
+    "clientHeight": "62",
+    "clientLivesWith": "roomate",
+    "clientInaccessibleAreas": "Kitchen has accessibility but would benefit from lowering the sink/kitchen top while removing throw rugs and having things the client uses most at a lower level. The bathroom is accessible but would benefit from removing throw rugs and inserting a tub transfer bench. The living room is accessible but would benefit from removing throw rugs.",
+    "clientAssitiveDevices": "-grab bars \n -detachable showerhead \n -tub shower bench\n -reacher \n-long handed sponge\n -chopper to meal prep",
+    "clientFallResultInInjury": "",
+    "clientFallResultInHospitalization": "",
+    "clientFallResultInRehab": "",
+    "clientFallLocation": "N/a",
+    "clientFallRoomId": "",
+    "clientFallCause": "N/a",
+    "clientFallCauseComments": "",
+    "additionalClientRecommendations": "<div contenteditable='true' class='ProseMirror' tabindex='0'><p><br></p></div>",
+    "clientNote": "<div contenteditable='true' class='ProseMirror' tabindex='0'><p>The client's apartment is partially/fully accessible. However, when aging in place some considerations are to remove throw rugs, invest in adaptive equipment for bathing and meal preparation, utilize the elevator/move to the first floor, and lower the sink/cook top in the kitchen to make it more accessible for an individual in a w/c.</p></div>",
+    "logoImageBuffer": [],
+    "concernList": [
+    ],
+    "rooms": [
+
+    ]
+
+
+}
